@@ -1,0 +1,8 @@
+@import url(reset.css);
+body {
+	background: white;
+}
+div {
+	width: 100%;
+	height: 100%;
+}
